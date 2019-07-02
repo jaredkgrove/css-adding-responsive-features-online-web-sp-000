@@ -71,6 +71,6 @@
   }
 
   #navbar nav a.menu-icon:hover{
-    display: none;
+    /* display: none; */
   }
 }
