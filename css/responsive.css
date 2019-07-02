@@ -66,7 +66,7 @@
     /* display:block; */
   }
 
-  #navbar a{
+  #navbar nav a{
     display: none;
   }
 }
