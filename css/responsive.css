@@ -75,6 +75,10 @@
   }
 
   #logo h1{
-    float: right;
+    position: fixed;
+    top: 163px;
+    right: 20px;
+    width: 40px;
+    z-index: 2;
   }
 }
