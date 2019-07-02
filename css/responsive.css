@@ -67,8 +67,10 @@
     display: inline-block;
     clear: both;
     visibility: visible;
-    height: 10px;
-    line-height: 5px;
+    width: 35px;
+    height: 5px;
+    background-color: black;
+    margin: 6px 0;
   }
 
   #navbar a{
