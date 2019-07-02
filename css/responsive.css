@@ -64,5 +64,7 @@
 @media only screen and (max-width: 700px) {
   .clearfix::after{
     visibility: visible;
+    height: 1px;
+    line-height: 1px;
   }
 }
