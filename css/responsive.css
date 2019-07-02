@@ -81,4 +81,8 @@
     width: 40px;
     /* z-index: 2; */
   }
+
+  #social{
+    clear: both;
+  }
 }
