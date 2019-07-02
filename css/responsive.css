@@ -67,6 +67,6 @@
   }
 
   #navbar a{
-    visibility: hidden;
+    /* visibility: hidden; */
   }
 }
