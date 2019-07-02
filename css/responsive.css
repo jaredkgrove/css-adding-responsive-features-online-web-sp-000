@@ -62,8 +62,8 @@
 }
 
 @media only screen and (max-width: 700px) {
-  .clearfix{
-
+  #navbar nav a.menu-icon {
+    display: none;
   }
 
   #navbar a{
