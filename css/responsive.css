@@ -74,7 +74,7 @@
     display: none;
   }
 
-  #logo h1{
+  #logo {
     position: fixed;
     top: 163px;
     right: 20px;
