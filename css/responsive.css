@@ -71,6 +71,6 @@
   }
 
   #navbar nav a:active{
-
+    display: block;
   }
 }
