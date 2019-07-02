@@ -70,7 +70,7 @@
     display: none;
   }
 
-  #navbar nav a.menu-icon:hover{
+  #navbar nav a.menu-icon:active{
     display: none;
   }
 }
