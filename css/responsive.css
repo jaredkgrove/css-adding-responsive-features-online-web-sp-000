@@ -69,4 +69,8 @@
   #navbar nav a{
     display: none;
   }
+
+  #logo h1{
+    display: none;
+  }
 }
