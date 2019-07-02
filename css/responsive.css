@@ -67,8 +67,8 @@
     display: block;
     clear: both;
     visibility: visible;
-    height: 10;
-    line-height: 10;
+    height: 10px;
+    line-height: 5px;
   }
 
   #navbar a{
