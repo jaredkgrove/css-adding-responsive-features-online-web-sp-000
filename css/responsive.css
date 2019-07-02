@@ -65,7 +65,7 @@
   .clearfix::after{
     content: "----";
     display: inline-block;
-    clear: both;
+    /* clear: both; */
     visibility: visible;
     width: 35px;
     height: 5px;
