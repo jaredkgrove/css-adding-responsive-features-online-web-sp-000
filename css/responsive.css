@@ -75,6 +75,7 @@
   }
 
   #social {
+    width: auto;
     float: left;
   }
 }
