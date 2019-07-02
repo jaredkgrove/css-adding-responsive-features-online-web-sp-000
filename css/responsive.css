@@ -69,8 +69,4 @@
   #navbar nav a{
     display: none;
   }
-
-  #navbar nav a:hover{
-    display: block;
-  }
 }
